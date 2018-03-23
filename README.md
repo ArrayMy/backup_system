@@ -4,4 +4,5 @@
 ### Tutorial
 * Download the latest version of this programme.
 * Start: `python /location/backup.py -log /location/log.txt -input /location/input_backup_folder/ -output /location/output_backup_file`
+
 *The retained data will be compressed and stored as a platform 7z / zip / tar*
