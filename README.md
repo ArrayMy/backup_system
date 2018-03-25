@@ -8,17 +8,17 @@
 
 * Config the backup.config.
 
-*rootpath*: Location of backup
+*sourcepath*: Location of backup
 
-*destpath*: Target backup folder
+*targetpath*: Target backup folder
 
-*fileType*: The type of backup, it's usual .dat
+*Type*: The type of backup, it's usual .dat
 
-*cycleTime*: Meaning it will backup every x hours
+*CTime*: Meaning it will backup every x hours
 
-*loop*: Meaning open backup loop, if it's 0. It's meaning just backup one time.
+*Loop*: Meaning open backup loop, if it's 0. It's meaning just backup one time.
 
-*blackList*: It's meaning it will not backup some folders
+*IgnoreList*: It's meaning it will not backup some folders
 
 #### Windows
 `Start backup.bat with Administrator Rights`
