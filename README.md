@@ -18,7 +18,7 @@
 
 *Loop*: Meaning open backup loop, if it's 0. It's meaning just backup one time.
 
-*IgnoreList*: It's meaning it will not backup some folders
+*Ignore*: It's meaning it will not backup some folders
 
 #### Windows
 `Start backup.bat with Administrator Rights`
