@@ -1,0 +1,2 @@
+python backup.py
+pause;
