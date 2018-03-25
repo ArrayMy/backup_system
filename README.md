@@ -12,11 +12,11 @@
 
 *destpath*: Target backup folder
 
-*fileType*: The type of backup， it's usual .dat
+*fileType*: The type of backup, it's usual .dat
 
 *cycleTime*: Meaning it will backup every x hours
 
-*loop*: Meaning open backup loop， if it's 0. It's meaning just backup one time.
+*loop*: Meaning open backup loop, if it's 0. It's meaning just backup one time.
 
 *blackList*: It's meaning it will not backup some folders
 
