@@ -1,5 +1,6 @@
 # Backup-System
-#### Linux Backup System
+#### Windows
+ [Download 2.7.x version!](https://www.python.org/downloads/).
 * Running on Linux, if you want it to apply to the current instance Windows command authorization.
 ### Tutorial
 * Download the latest version of this programme.
